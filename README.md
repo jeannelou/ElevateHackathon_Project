@@ -1,2 +1,2 @@
 # ElevateHack
-A solution for our Elevate Hack 
+A solution for our Elevate Hack by TD. I worked with 5 more students with this project. Learned Bootstrap on the spot while doing the front-end side. This Hackathon took almost three days to complete the program. The team worked hard and helped each other to reached the goal. Teamwork is really important that's why we finished the task. We didn't made it to top but the most important thing we brought home was the knowledge we had learned from the event and the experienced itself.
