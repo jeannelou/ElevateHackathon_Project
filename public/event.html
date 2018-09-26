@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/event.css">
+
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="map"></div>
+
+    <h1 style="margin-top: 3vh; text-align: center;">Child Care Programs</h1>
+	<hr>
+	<p style="margin-left: 1.5vh;">
+
+        Toronto’s licensed child care system has over 1,000 centres and 19 home child care agencies providing early learning and care for children up to 12 years of age. The City supports quality programs which promote healthy outcomes for all children.</p>
+	<table id="gmaptable" class="table table-bordered table-striped table-hover cot-table">
+		<thead>
+			<tr>
+				<th style="width:30%;">Title</th>
+				<th style="width:70%;">Description</th>
+			</tr>
+		</thead>
+		<tbody id="results_table">
+
+		</tbody>
+	</table>
+
+
+
+
+
+    <script src="/event.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSDIBKeGAzIecQS8-wQFsrq90bkuTo_ic&callback=initMap"
+        async defer></script>
+</body>
+
+</html>

@@ -1,0 +1,70 @@
+body{
+     background-image: url("../images/registration.jpeg");
+   }
+
+.navbar-toggle {
+   position: relative;
+   float: left;
+   padding: 9px 10px;
+   margin-top: 8px;
+   margin-right: 15px;
+   margin-bottom: 8px;
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid transparent;
+   border-radius: 4px;
+}
+
+.navbar-brand {
+   align-content:center;
+   height: 50px;
+   font-size: 18px;
+   line-height: 20px;
+}
+
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+   margin-right: 5px;
+   margin-left: -15px;
+   background-color:#FFBBA4;
+}
+
+.container-fluid {
+   padding-right: 15px;
+   padding-left: 15px;
+   margin-right: auto;
+   margin-left: auto;
+   background-color:#FFBBA4;
+}
+
+.panel1 {
+  position: relative;
+}
+
+.panel-body1{
+  border-radius: 3px;
+  font-family: 'Open Sans', sans-serif;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(../images/login.jpg);
+  height: 30vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 20px 30px 0px 30px;
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+}
+
+.bg-text1 {
+  position: absolute;
+  font-size:20px;
+  color: white;
+  top: 10px;
+  left: 45px;
+}
+
+.panel-footer1{
+   border-radius: 2px 2px 3px 3px;
+   margin: 0px 30px 10px 30px;
+   height: 4vh;
+   background-color:#FFCBBA;
+   color:white;
+}

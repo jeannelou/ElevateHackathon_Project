@@ -1,0 +1,171 @@
+[
+    {
+        "Name": "2398 Yonge Street",
+        "PCode": "M4P 2H4",
+        "Contact": "(416) 392-0907",
+        "Long": 43.710371,
+        "Lat": -79.399640
+    },
+    {
+        "Name": "277 Victoria Street",
+        "PCode": "M5B 1W2",
+        "Contact": "(416) 392-6680",
+        "Long": 43.656536,
+        "Lat": -79.379409
+    },
+    {
+        "Name": "Unison Health and Community Services",
+        "PCode": "M6M 3W2",
+        "Contact": "(416) 338-1224",
+        "Long": 43.683429, 
+        "Lat": -79.471833
+    },
+    {
+        "Name": "Unison Health and Community Services",
+        "PCode": "M9N 2R3",
+        "Contact": "(416) 338-1254",
+        "Long": 43.698728,
+        "Lat": -79.502392
+    },
+    {
+        "Name": "Unison Health and Community Services",
+        "PCode": "M6A 2N4",
+        "Contact": "(416) 338-2025",
+        "Long": 43.719878,
+        "Lat": -79.443550
+    },
+    {
+        "Name": "TAIBU Community Health Centre",
+        "PCode": "M1B 4Y7",
+        "Contact": "(416) 338-5400",
+        "Long": 43.805459,
+        "Lat": -79.222003
+    },
+    {
+        "Name": "Stonegate Community Health Centre",
+        "PCode": "M8Y 1W3",
+        "Contact": "(416) 338-1120",
+        "Long": 43.638096,
+        "Lat": -79.488983
+    },
+    {
+        "Name": "Scarborough Civic Centre",
+        "PCode": "M8Y 1W3",
+        "Contact": "(416) 338-7442",
+        "Long": 43.637817,
+        "Lat": -79.487792
+
+    },
+    {
+        "Name": "Rexdale Community Health Centre Hub",
+        "PCode": "M9V 3S6",
+        "Contact": "416 338-2205",
+        "Long": 43.747281,
+        "Lat": -79.583095
+    },
+    {
+        "Name": "Rexdale C.H.C.",
+        "PCode": "M9W 3A4",
+        "Contact": "(416) 338-1790",
+        "Long": 43.719223,
+        "Lat": -79.572482
+    },
+    {
+        "Name": "791 Queen St. E.",
+        "PCode": "M4M 1H6",
+        "Contact": "(416) 392-6683",
+        "Long": 43.659406,
+        "Lat": -79.346187
+    },
+    {
+        "Name": "Parkdale Community Health Centre",
+        "PCode": "M6K 1L2",
+        "Contact": "(416) 338-5652",
+        "Long": 43.641737,
+        "Lat": -79.429420
+    },
+    {
+        "Name": "North York Clinic",
+        "PCode": "M2N 5V7",
+        "Contact": "(416) 338-8399",
+        "Long": 43.767332,
+        "Lat": -79.413854
+    },
+    {
+        "Name": "95 Lavinia Ave.",
+        "PCode": "M6S 3H9",
+        "Contact": "(416) 392-1777",
+        "Long": 43.646464,
+        "Lat": -79.477434
+    },
+    {
+        "Name": "L.A.M.P.",
+        "PCode": "M8V 2Z5",
+        "Contact": "(416) 252-8576",
+        "Long": 43.603011,
+        "Lat": -79.503415
+    },
+    {
+        "Name": "The Hub",
+        "PCode": "M1K 2S3",
+        "Contact": "(416) 338-3764",
+        "Long": 43.736335,
+        "Lat": -79.251337
+    },
+    {
+        "Name": "Fairview Community Health Centre",
+        "PCode": "M2J 2Z1",
+        "Contact": "(416) 338-1008",
+        "Long": 43.777538,
+        "Lat": -79.347161
+    },
+    {
+        "Name": "Etobicoke Civic Centre",
+        "PCode": "M9C 2Y2",
+        "Contact": "(416) 338-1486",
+        "Long": 43.667893,
+        "Lat": -79.575331
+    },
+    {
+        "Name": "2340 Dundas St. W.",
+        "PCode": "M6P 4A9",
+        "Contact": "(416) 392-0988",
+        "Long": 43.656661,
+        "Lat": -79.451728
+    },
+    {
+        "Name": "235 Danforth Ave",
+        "PCode": "M4K 1N2",
+        "Contact": "(416) 392-0934",
+        "Long": 43.676332,
+        "Lat": -79.355970
+    },
+    {
+        "Name": "340 College St.",
+        "PCode": "M5T 3A9",
+        "Contact": "(416) 392-1410",
+        "Long": 43.657687,
+        "Lat": -79.403690
+    },
+    {
+        "Name": "80 Bond Street",
+        "PCode": "M5B 1X2",
+        "Contact": "(416) 338-0905",
+        "Long": 43.654985,
+        "Lat": -79.378167
+    },
+    {
+        "Name": "Bathurst-Finch Hub",
+        "PCode": "M2R 1N7",
+        "Contact": "(416) 338-0631",
+        "Long": 43.774962,
+        "Lat": 79.453150
+    },
+    {
+        "Name": "Anishnawbe Health Toronto",
+        "PCode": "M5A 2E5",
+        "Contact": "(416) 338-6984",
+        "Long": 43.660830,
+        "Lat": 79.372918
+    }
+]

@@ -1,0 +1,104 @@
+html, body {
+    height: 100vh;
+    margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg {
+
+    position: relative;
+
+    font-family: 'Open Sans', sans-serif;
+
+    /* The image used */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(../images/start.jpg);
+    /* Full height */
+    height: 93vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    /* Add the blur effect */
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+.i {
+  color: #FFAC8F;
+}
+
+.startBtn {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #FFAC8F;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    position: absolute;
+}
+
+.startBtn:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+.navbar-toggle {
+   position: relative;
+   float: left;
+   padding: 9px 10px;
+   margin-top: 8px;
+   margin-right: 15px;
+   margin-bottom: 8px;
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid transparent;
+   border-radius: 4px;
+}
+
+a {
+   color: #337ab7;
+   text-decoration: none;
+   align: center;
+}
+
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+   margin-right: 5px;
+   margin-left: -15px;
+   background-color:#FFBBA4;
+}
+
+.container-fluid {
+   padding-right: 15px;
+   padding-left: 15px;
+   margin-right: auto;
+   margin-left: auto;
+   background-color:#FFBBA4;
+}

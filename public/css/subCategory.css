@@ -1,0 +1,100 @@
+body{
+     background-image: url("../images/registration.jpeg");
+   }
+
+   .container-fluid.navigation{
+    height: 10vh;
+    background: #ffac8f;
+  }
+  .navbar-brand{
+    text-align: center;
+  }
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #FFFFFf;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    left: 1px;
+    font-size: 20px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    position: absolute;
+  }
+  .sidenav img{
+    margin: 0 3px 10px 15px;
+  }
+
+  .hamburger-img{
+    margin-top: 3.5vh;
+    margin-left: 3.2vw;
+    padding: 1px;
+  }
+  .hamburger-comfii{
+    margin-top: 4vh;
+    margin-left: 4vw;
+    color: #FFFFFF;
+  }
+
+.container {
+  text-align: center;
+}
+
+
+.btn {
+  border: none;
+  font-size:18pt;
+  width: 11.5em;
+  height: 60px;
+  color: white;
+  margin: 14px auto 14px auto;
+  box-shadow: 0 2px 2px #ACA5A3;
+  }
+
+#dentalBtn {
+  background-color:rgb(128, 195, 226);
+}
+
+#daycaresBtn {
+  background-color:rgb(204, 136, 212);
+}
+
+#healthBtn {
+  background-color:rgb(247, 103, 146);
+}
+
+#visionBtn {
+  background-color:rgb(243, 163, 72);
+}
+
+#immunizationBtn {
+  background-color:rgb(248, 238, 94);
+}
+
+#nutritionBtn {
+  background-color:rgb(166, 247, 146);
+}

@@ -1,0 +1,76 @@
+html, body {
+  font-family: 'Lato', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.title {
+  font-size: 80px;
+  font-weight: 300;
+  margin-top: -150px;
+  margin-left: -10px;
+}
+
+.i {
+  color: #FFAC8F;
+  letter-spacing: -6px !important;
+}
+
+.subTitle {
+  font-size: 15px;
+  font-weight: 300;
+  margin-top: -15px;
+}
+
+.bg {
+  position: relative;
+
+
+  /* The image used */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(../images/start.jpg);
+  /* Full height */
+  height: 90vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+  /* Add the blur effect */
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+
+
+.startBtn {
+  width: 100%;
+  border: none;
+  background-color: #FFAC8F;
+  color: white;
+  padding: 12px;
+  font-size: 27px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  height: 10vh;
+}
+
+.startBtn:hover {
+  background-color: #FFAC8F !important;
+}

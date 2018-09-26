@@ -1,0 +1,27 @@
+{
+  "name": "elevatehack",
+  "version": "1.0.0",
+  "description": "A solution for our Elevate Hack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plomboe/ElevateHack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plomboe/ElevateHack/issues"
+  },
+  "homepage": "https://github.com/Plomboe/ElevateHack#readme",
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}

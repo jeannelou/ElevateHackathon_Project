@@ -1,0 +1,39 @@
+#map{
+    height: 40vh;
+}
+.title{
+    text-align: center;
+    width: 100%;
+}
+.row{
+    margin: 20px 3px;
+}
+.container{
+    background: rgb(230, 227, 198);
+}
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+    padding: 4px;
+}
+.table {
+    border: solid 1px #ddd
+}
+
+.table>thead>tr>th {
+    border-bottom: solid 3px #165788
+}
+
+.table p {
+    margin: 0
+}
+
+.table p+p {
+    margin-top: 0.75rem
+}

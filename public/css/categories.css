@@ -1,0 +1,112 @@
+html, body {
+    height: 100vh;
+    margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+.container-fluid.navigation{
+  height: 10vh;
+  background: #ffac8f;
+}
+.navbar-brand{
+  text-align: center;
+}
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #FFFFFf;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-size: 20px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 0;
+  position: absolute;
+}
+.sidenav img{
+  margin: 0 3px 10px 15px;
+}
+
+.hamburger-img{
+  margin-top: 3.5vh;
+  margin-left: 3.2vw;
+  padding: 1px;
+}
+.hamburger-comfii{
+  margin-top: 4vh;
+  margin-left: 4vw;
+  color: #FFFFFF;
+}
+#importedImage{
+    position: absolute;
+    margin-top: -10vh;
+    z-index: 1;
+}
+
+
+.bg {
+
+    position: relative;
+
+    font-family: 'Open Sans', sans-serif;
+
+    /* The image used */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(../images/main-categories.png);
+    /* Full height */
+    height: 90vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    /* Add the blur effect */
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+.i {
+  color: #FFAC8F;
+}
+

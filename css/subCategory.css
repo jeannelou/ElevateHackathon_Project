@@ -1,0 +1,138 @@
+body{
+     background-image: url("../images/registration.jpeg");
+   }
+
+.navbar-toggle {
+   position: relative;
+   float: left;
+   padding: 9px 10px;
+   margin-top: 8px;
+   margin-right: 15px;
+   margin-bottom: 8px;
+   background-color: transparent;
+   background-image: none;
+   border: 1px solid transparent;
+   border-radius: 4px;
+}
+
+.navbar-brand {
+   align-content:center;
+   height: 50px;
+   font-size: 18px;
+   line-height: 20px;
+}
+
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+   margin-right: 5px;
+   margin-left: -15px;
+   background-color:#FFBBA4;
+}
+
+.container-fluid {
+   padding-right: 15px;
+   padding-left: 15px;
+   margin-right: auto;
+   margin-left: auto;
+   background-color:#FFBBA4;
+}
+
+.container {
+  text-align: center;
+}
+
+
+.btn {
+  border: none;
+  font-size:18pt;
+  width: 11.5em;
+  height: 60px;
+  color: white;
+  margin: 10px auto 10px auto;
+  box-shadow: 0 2px 2px #ACA5A3;
+  }
+  
+#dentalBtn {
+  background-color:rgb(128, 195, 226);
+}
+
+#daycaresBtn {
+  background-color:rgb(204, 136, 212);
+}
+
+#healthBtn {
+  background-color:rgb(247, 103, 146);
+}
+
+#visionBtn {
+  background-color:rgb(243, 163, 72);
+}
+
+#immunizationBtn {
+  background-color:rgb(248, 238, 94);
+}
+
+#nutritionBtn {
+  background-color:rgb(166, 247, 146);
+}
+
+
+/* --------------------------------------- */
+/* FOOTER */
+/* --------------------------------------- */
+
+.row {
+  margin: 0;
+}
+
+footer {
+  background-color: #FFBBA4;
+  padding: 5px 18px 0 18px;
+}
+
+.footer-nav {
+  list-style: none;
+  float: center;
+}
+
+.nav-links {
+  list-style: none;
+  /* float: center; */
+  font-size: 135%;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-right: 80px;
+  text-align: center;
+}
+
+.nav-links li:last-child {
+  margin-right: 0;
+}
+
+.nav-links li a:link,
+.nav-links li a:visited {
+  text-decoration: none;
+  border: 0;
+  color: white;
+  text-align: center;
+  font-size: 135%;
+}
+
+.nav-links li a:link,
+.nav-links li a:visited {
+  font-size: 135%;
+}
+
+.ion-ios-color-wand-outline,
+.ion-ios-heart-outline,
+.ion-ios-keypad-outline {
+  transition: color 0.2s;
+}
+
+
+footer p {
+  color: white;
+  text-align: center;
+  margin-top: 0;
+}

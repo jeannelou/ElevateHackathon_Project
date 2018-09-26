@@ -1,0 +1,1 @@
+exports.parentDirName = __dirname
